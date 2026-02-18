@@ -1,7 +1,9 @@
 name: discord-admin-py
+version: "1.0.0"
 description: Discord server administration via Python - Channel/role/member management, messages, webhooks, and more
 category: utility
 visibility: public
+repository: https://github.com/JungHoonGhae/discord-admin-py
 
 python: "3.11"
 
