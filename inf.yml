@@ -1,0 +1,15 @@
+name: discord-admin-py
+description: Discord server administration via Python - Channel/role/member management, messages, webhooks, and more
+category: utility
+visibility: public
+
+python: "3.11"
+
+resources:
+  ram: 2048
+
+requirements:
+  secrets:
+    - key: DISCORD_BOT_TOKEN
+      description: Discord bot token with appropriate permissions
+      optional: false
