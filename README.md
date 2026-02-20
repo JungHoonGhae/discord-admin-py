@@ -60,12 +60,21 @@ cd discord-admin-py
 3. Copy the token
 4. Add to inference.sh app secrets as `DISCORD_BOT_TOKEN`
 
+## AI Agent Skill
+
+This app has an accompanying AI agent skill available at [JungHoonGhae/skills](https://github.com/JungHoonGhae/skills):
+
+```bash
+npx skills add JungHoonGhae/skills@discord-admin-py
+```
+
 ## Documentation
 
 | Resource | Link |
 |----------|------|
 | inference.sh | [inference.sh](https://inference.sh) |
 | GitHub | [github.com/JungHoonGhae/discord-admin-py](https://github.com/JungHoonGhae/discord-admin-py) |
+| AI Agent Skill | [JungHoonGhae/skills](https://github.com/JungHoonGhae/skills) |
 | Discord API | [discord.com/developers/docs](https://discord.com/developers/docs) |
 
 ## Contributing
