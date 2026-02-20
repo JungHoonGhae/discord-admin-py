@@ -1,5 +1,6 @@
 # Discord Admin Py
 
+[![skills.sh](https://skills-badge.vercel.app/badge/JungHoonGhae/skills/discord-admin-py?style=flat-square&label=installs)](https://skills.sh/JungHoonGhae/skills/discord-admin-py)
 [![inference.sh app](https://img.shields.io/badge/inference.sh-app-blue)](https://inference.sh)
 [![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/discord-admin-py)](https://github.com/JungHoonGhae/discord-admin-py/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/JungHoonGhae/discord-admin-py/blob/main/LICENSE)
