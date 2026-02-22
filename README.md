@@ -1,9 +1,9 @@
-# Discord Admin Py
+# Discord Admin
 
-[![skills.sh](https://skills-badge.vercel.app/badge/JungHoonGhae/skills/discord-admin-py?style=flat-square&label=installs)](https://skills.sh/JungHoonGhae/skills/discord-admin-py)
+[![skills.sh](https://skills-badge.vercel.app/badge/JungHoonGhae/skills/discord-admin?style=flat-square&label=installs)](https://skills.sh/JungHoonGhae/skills/discord-admin)
 [![inference.sh app](https://img.shields.io/badge/inference.sh-app-blue)](https://inference.sh)
-[![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/discord-admin-py)](https://github.com/JungHoonGhae/discord-admin-py/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/JungHoonGhae/discord-admin-py/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/discord-admin)](https://github.com/JungHoonGhae/discord-admin/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/JungHoonGhae/discord-admin/blob/main/LICENSE)
 
 | [<img alt="GitHub Follow" src="https://img.shields.io/github/followers/JungHoonGhae?style=flat-square&logo=github&labelColor=black&color=24292f" width="156px" />](https://github.com/JungHoonGhae) | Follow [@JungHoonGhae](https://github.com/JungHoonGhae) on GitHub for more projects. |
 | :-----| :----- |
@@ -44,14 +44,14 @@ Managing Discord servers manually is tedious. This inference.sh app lets AI agen
 ### Via inference.sh Grid
 
 1. Visit [inference.sh Apps](https://app.inference.sh/apps)
-2. Search for "discord-admin-py"
+2. Search for "discord-admin"
 3. Add to your agent
 
 ### Via GitHub
 
 ```bash
-git clone https://github.com/JungHoonGhae/discord-admin-py.git
-cd discord-admin-py
+git clone https://github.com/JungHoonGhae/discord-admin.git
+cd discord-admin
 ```
 
 ## Configuration
@@ -66,7 +66,7 @@ cd discord-admin-py
 This app has an accompanying AI agent skill available at [JungHoonGhae/skills](https://github.com/JungHoonGhae/skills):
 
 ```bash
-npx skills add JungHoonGhae/skills@discord-admin-py
+npx skills add JungHoonGhae/skills@discord-admin
 ```
 
 ## Documentation
@@ -74,7 +74,7 @@ npx skills add JungHoonGhae/skills@discord-admin-py
 | Resource | Link |
 |----------|------|
 | inference.sh | [inference.sh](https://inference.sh) |
-| GitHub | [github.com/JungHoonGhae/discord-admin-py](https://github.com/JungHoonGhae/discord-admin-py) |
+| GitHub | [github.com/JungHoonGhae/discord-admin](https://github.com/JungHoonGhae/discord-admin) |
 | AI Agent Skill | [JungHoonGhae/skills](https://github.com/JungHoonGhae/skills) |
 | Discord API | [discord.com/developers/docs](https://discord.com/developers/docs) |
 
@@ -84,4 +84,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT - See [LICENSE](https://github.com/JungHoonGhae/discord-admin-py/blob/main/LICENSE) for details.
+MIT - See [LICENSE](https://github.com/JungHoonGhae/discord-admin/blob/main/LICENSE) for details.
